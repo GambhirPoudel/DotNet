@@ -1,0 +1,14 @@
+D:\BCA 5\.net\matmul\bin\Debug\net6.0\matadd.exe
+D:\BCA 5\.net\matmul\bin\Debug\net6.0\matadd.deps.json
+D:\BCA 5\.net\matmul\bin\Debug\net6.0\matadd.runtimeconfig.json
+D:\BCA 5\.net\matmul\bin\Debug\net6.0\matadd.dll
+D:\BCA 5\.net\matmul\bin\Debug\net6.0\matadd.pdb
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\matadd.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\matadd.AssemblyInfoInputs.cache
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\matadd.AssemblyInfo.cs
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\matadd.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\matadd.dll
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\refint\matadd.dll
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\matadd.pdb
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\matadd.genruntimeconfig.cache
+D:\BCA 5\.net\matmul\obj\Debug\net6.0\ref\matadd.dll

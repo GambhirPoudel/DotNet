@@ -1,0 +1,14 @@
+D:\BCA 5\.net\factorial\bin\Debug\net6.0\factorial.exe
+D:\BCA 5\.net\factorial\bin\Debug\net6.0\factorial.deps.json
+D:\BCA 5\.net\factorial\bin\Debug\net6.0\factorial.runtimeconfig.json
+D:\BCA 5\.net\factorial\bin\Debug\net6.0\factorial.dll
+D:\BCA 5\.net\factorial\bin\Debug\net6.0\factorial.pdb
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\factorial.AssemblyInfoInputs.cache
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\factorial.AssemblyInfo.cs
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\factorial.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\factorial.dll
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\refint\factorial.dll
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\factorial.pdb
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\factorial.genruntimeconfig.cache
+D:\BCA 5\.net\factorial\obj\Debug\net6.0\ref\factorial.dll

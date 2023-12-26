@@ -1,0 +1,4 @@
+D:\BCA 5\.net\Abstract class s\obj\Debug\net6.0\Operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\Abstract class s\obj\Debug\net6.0\Operator overloading.AssemblyInfoInputs.cache
+D:\BCA 5\.net\Abstract class s\obj\Debug\net6.0\Operator overloading.AssemblyInfo.cs
+D:\BCA 5\.net\Abstract class s\obj\Debug\net6.0\Operator overloading.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+E:\Gambhir\Clz\dotNet\Rupee\bin\Debug\net8.0\Rupee.exe
+E:\Gambhir\Clz\dotNet\Rupee\bin\Debug\net8.0\Rupee.deps.json
+E:\Gambhir\Clz\dotNet\Rupee\bin\Debug\net8.0\Rupee.runtimeconfig.json
+E:\Gambhir\Clz\dotNet\Rupee\bin\Debug\net8.0\Rupee.dll
+E:\Gambhir\Clz\dotNet\Rupee\bin\Debug\net8.0\Rupee.pdb
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.AssemblyInfoInputs.cache
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.AssemblyInfo.cs
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.csproj.CoreCompileInputs.cache
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.sourcelink.json
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.dll
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\refint\Rupee.dll
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.pdb
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\Rupee.genruntimeconfig.cache
+E:\Gambhir\Clz\dotNet\Rupee\obj\Debug\net8.0\ref\Rupee.dll

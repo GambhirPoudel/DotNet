@@ -1,0 +1,14 @@
+D:\BCA 5\.net\bubblesort\bin\Debug\net6.0\lab1-8.exe
+D:\BCA 5\.net\bubblesort\bin\Debug\net6.0\lab1-8.deps.json
+D:\BCA 5\.net\bubblesort\bin\Debug\net6.0\lab1-8.runtimeconfig.json
+D:\BCA 5\.net\bubblesort\bin\Debug\net6.0\lab1-8.dll
+D:\BCA 5\.net\bubblesort\bin\Debug\net6.0\lab1-8.pdb
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\lab1-8.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\lab1-8.AssemblyInfoInputs.cache
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\lab1-8.AssemblyInfo.cs
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\lab1-8.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\lab1-8.dll
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\refint\lab1-8.dll
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\lab1-8.pdb
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\lab1-8.genruntimeconfig.cache
+D:\BCA 5\.net\bubblesort\obj\Debug\net6.0\ref\lab1-8.dll

@@ -1,0 +1,14 @@
+D:\BCA 5\.net\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+D:\BCA 5\.net\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+D:\BCA 5\.net\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\enum\bin\Debug\net6.0\enum.exe
+D:\BCA 5\.net\enum\bin\Debug\net6.0\enum.deps.json
+D:\BCA 5\.net\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+D:\BCA 5\.net\enum\bin\Debug\net6.0\enum.dll
+D:\BCA 5\.net\enum\bin\Debug\net6.0\enum.pdb
+D:\BCA 5\.net\enum\obj\Debug\net6.0\enum.dll
+D:\BCA 5\.net\enum\obj\Debug\net6.0\refint\enum.dll
+D:\BCA 5\.net\enum\obj\Debug\net6.0\enum.pdb
+D:\BCA 5\.net\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
+D:\BCA 5\.net\enum\obj\Debug\net6.0\ref\enum.dll

@@ -1,0 +1,15 @@
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.AssemblyInfoInputs.cache
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.AssemblyInfo.cs
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.csproj.CoreCompileInputs.cache
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.sourcelink.json
+E:\Gambhir\Clz\dotNet\Operator_Overloading\bin\Debug\net8.0\Operator_Overloading.exe
+E:\Gambhir\Clz\dotNet\Operator_Overloading\bin\Debug\net8.0\Operator_Overloading.deps.json
+E:\Gambhir\Clz\dotNet\Operator_Overloading\bin\Debug\net8.0\Operator_Overloading.runtimeconfig.json
+E:\Gambhir\Clz\dotNet\Operator_Overloading\bin\Debug\net8.0\Operator_Overloading.dll
+E:\Gambhir\Clz\dotNet\Operator_Overloading\bin\Debug\net8.0\Operator_Overloading.pdb
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.dll
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\refint\Operator_Overloading.dll
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.pdb
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\Operator_Overloading.genruntimeconfig.cache
+E:\Gambhir\Clz\dotNet\Operator_Overloading\obj\Debug\net8.0\ref\Operator_Overloading.dll

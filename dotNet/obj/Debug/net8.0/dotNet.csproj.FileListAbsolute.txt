@@ -1,0 +1,14 @@
+E:\Gambhir\Clz\dotNet\dotNet\bin\Debug\net8.0\dotNet.exe
+E:\Gambhir\Clz\dotNet\dotNet\bin\Debug\net8.0\dotNet.deps.json
+E:\Gambhir\Clz\dotNet\dotNet\bin\Debug\net8.0\dotNet.runtimeconfig.json
+E:\Gambhir\Clz\dotNet\dotNet\bin\Debug\net8.0\dotNet.dll
+E:\Gambhir\Clz\dotNet\dotNet\bin\Debug\net8.0\dotNet.pdb
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\dotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\dotNet.AssemblyInfoInputs.cache
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\dotNet.AssemblyInfo.cs
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\dotNet.csproj.CoreCompileInputs.cache
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\dotNet.dll
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\refint\dotNet.dll
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\dotNet.pdb
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\dotNet.genruntimeconfig.cache
+E:\Gambhir\Clz\dotNet\dotNet\obj\Debug\net8.0\ref\dotNet.dll

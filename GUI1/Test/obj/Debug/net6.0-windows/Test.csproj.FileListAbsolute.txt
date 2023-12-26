@@ -1,0 +1,16 @@
+D:\BCA 5\.net\GUI1\Test\bin\Debug\net6.0-windows\Test.exe
+D:\BCA 5\.net\GUI1\Test\bin\Debug\net6.0-windows\Test.deps.json
+D:\BCA 5\.net\GUI1\Test\bin\Debug\net6.0-windows\Test.runtimeconfig.json
+D:\BCA 5\.net\GUI1\Test\bin\Debug\net6.0-windows\Test.dll
+D:\BCA 5\.net\GUI1\Test\bin\Debug\net6.0-windows\Test.pdb
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.Form1.resources
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.csproj.GenerateResource.cache
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.AssemblyInfoInputs.cache
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.AssemblyInfo.cs
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.dll
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\refint\Test.dll
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.pdb
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\Test.genruntimeconfig.cache
+D:\BCA 5\.net\GUI1\Test\obj\Debug\net6.0-windows\ref\Test.dll

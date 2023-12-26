@@ -1,0 +1,14 @@
+D:\BCA 5\.net\Avg using array\bin\Debug\net6.0\Avg using array.exe
+D:\BCA 5\.net\Avg using array\bin\Debug\net6.0\Avg using array.deps.json
+D:\BCA 5\.net\Avg using array\bin\Debug\net6.0\Avg using array.runtimeconfig.json
+D:\BCA 5\.net\Avg using array\bin\Debug\net6.0\Avg using array.dll
+D:\BCA 5\.net\Avg using array\bin\Debug\net6.0\Avg using array.pdb
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\Avg using array.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\Avg using array.AssemblyInfoInputs.cache
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\Avg using array.AssemblyInfo.cs
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\Avg using array.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\Avg using array.dll
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\refint\Avg using array.dll
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\Avg using array.pdb
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\Avg using array.genruntimeconfig.cache
+D:\BCA 5\.net\Avg using array\obj\Debug\net6.0\ref\Avg using array.dll

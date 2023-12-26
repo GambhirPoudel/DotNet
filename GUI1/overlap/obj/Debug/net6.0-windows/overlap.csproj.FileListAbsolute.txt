@@ -1,0 +1,16 @@
+D:\BCA 5\.net\GUI1\overlap\bin\Debug\net6.0-windows\overlap.exe
+D:\BCA 5\.net\GUI1\overlap\bin\Debug\net6.0-windows\overlap.deps.json
+D:\BCA 5\.net\GUI1\overlap\bin\Debug\net6.0-windows\overlap.runtimeconfig.json
+D:\BCA 5\.net\GUI1\overlap\bin\Debug\net6.0-windows\overlap.dll
+D:\BCA 5\.net\GUI1\overlap\bin\Debug\net6.0-windows\overlap.pdb
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.Form1.resources
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.csproj.GenerateResource.cache
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.AssemblyInfoInputs.cache
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.AssemblyInfo.cs
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.dll
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\refint\overlap.dll
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.pdb
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\overlap.genruntimeconfig.cache
+D:\BCA 5\.net\GUI1\overlap\obj\Debug\net6.0-windows\ref\overlap.dll

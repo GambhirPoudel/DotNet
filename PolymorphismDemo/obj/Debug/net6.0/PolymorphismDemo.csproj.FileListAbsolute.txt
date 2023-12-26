@@ -1,0 +1,14 @@
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.exe
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.deps.json
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.runtimeconfig.json
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.dll
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.pdb
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfoInputs.cache
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfo.cs
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.dll
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\refint\PolymorphismDemo.dll
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.pdb
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.genruntimeconfig.cache
+D:\OneDrive - Hetauda School of Management and Social Sciences\WorkSpace\Dot Net [BCA 77]\PolymorphismDemo\obj\Debug\net6.0\ref\PolymorphismDemo.dll

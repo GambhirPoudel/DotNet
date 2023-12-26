@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotNet", "dotNet.csproj", "{5541AF09-0A84-4A10-9604-6C0889A3C773}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shield method", "..\shield method\shield method.csproj", "{56C67B93-6F4C-4BDF-941C-4AE898ACD12D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "..\AbstractClass\AbstractClass.csproj", "{40EF4BA0-19BC-4297-BAB3-201EC13BE997}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Searching", "..\Searching\Searching.csproj", "{211E33FC-885B-4E58-A5DD-24B2619C9AF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operator_Overloading", "..\Operator_Overloading\Operator_Overloading.csproj", "{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rupee", "..\Rupee\Rupee.csproj", "{690587C2-032C-4E4B-9780-A18472C5A700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5541AF09-0A84-4A10-9604-6C0889A3C773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5541AF09-0A84-4A10-9604-6C0889A3C773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5541AF09-0A84-4A10-9604-6C0889A3C773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5541AF09-0A84-4A10-9604-6C0889A3C773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C67B93-6F4C-4BDF-941C-4AE898ACD12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C67B93-6F4C-4BDF-941C-4AE898ACD12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C67B93-6F4C-4BDF-941C-4AE898ACD12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C67B93-6F4C-4BDF-941C-4AE898ACD12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EF4BA0-19BC-4297-BAB3-201EC13BE997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EF4BA0-19BC-4297-BAB3-201EC13BE997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EF4BA0-19BC-4297-BAB3-201EC13BE997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EF4BA0-19BC-4297-BAB3-201EC13BE997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211E33FC-885B-4E58-A5DD-24B2619C9AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211E33FC-885B-4E58-A5DD-24B2619C9AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211E33FC-885B-4E58-A5DD-24B2619C9AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211E33FC-885B-4E58-A5DD-24B2619C9AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CA8462-BD5C-48DC-AC16-C3747C2A1C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690587C2-032C-4E4B-9780-A18472C5A700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690587C2-032C-4E4B-9780-A18472C5A700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690587C2-032C-4E4B-9780-A18472C5A700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690587C2-032C-4E4B-9780-A18472C5A700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E071E6B8-6091-45CF-AF6B-72460065F684}
+	EndGlobalSection
+EndGlobal

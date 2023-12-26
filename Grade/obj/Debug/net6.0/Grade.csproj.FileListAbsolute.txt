@@ -1,0 +1,14 @@
+D:\BCA 5\.net\Grade\bin\Debug\net6.0\Grade.exe
+D:\BCA 5\.net\Grade\bin\Debug\net6.0\Grade.deps.json
+D:\BCA 5\.net\Grade\bin\Debug\net6.0\Grade.runtimeconfig.json
+D:\BCA 5\.net\Grade\bin\Debug\net6.0\Grade.dll
+D:\BCA 5\.net\Grade\bin\Debug\net6.0\Grade.pdb
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\Grade.AssemblyInfoInputs.cache
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\Grade.AssemblyInfo.cs
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\Grade.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\Grade.dll
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\refint\Grade.dll
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\Grade.pdb
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\Grade.genruntimeconfig.cache
+D:\BCA 5\.net\Grade\obj\Debug\net6.0\ref\Grade.dll

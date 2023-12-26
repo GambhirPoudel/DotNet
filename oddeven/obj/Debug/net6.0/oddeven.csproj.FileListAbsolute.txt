@@ -1,0 +1,14 @@
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\oddeven.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\oddeven.AssemblyInfoInputs.cache
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\oddeven.AssemblyInfo.cs
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\oddeven.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\oddeven\bin\Debug\net6.0\oddeven.exe
+D:\BCA 5\.net\oddeven\bin\Debug\net6.0\oddeven.deps.json
+D:\BCA 5\.net\oddeven\bin\Debug\net6.0\oddeven.runtimeconfig.json
+D:\BCA 5\.net\oddeven\bin\Debug\net6.0\oddeven.dll
+D:\BCA 5\.net\oddeven\bin\Debug\net6.0\oddeven.pdb
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\oddeven.dll
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\refint\oddeven.dll
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\oddeven.pdb
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\oddeven.genruntimeconfig.cache
+D:\BCA 5\.net\oddeven\obj\Debug\net6.0\ref\oddeven.dll

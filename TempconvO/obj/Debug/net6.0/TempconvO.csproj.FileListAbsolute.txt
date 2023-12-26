@@ -1,0 +1,14 @@
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\TempconvO.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\TempconvO.AssemblyInfoInputs.cache
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\TempconvO.AssemblyInfo.cs
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\TempconvO.csproj.CoreCompileInputs.cache
+D:\BCA 5\.net\TempconvO\bin\Debug\net6.0\TempconvO.exe
+D:\BCA 5\.net\TempconvO\bin\Debug\net6.0\TempconvO.deps.json
+D:\BCA 5\.net\TempconvO\bin\Debug\net6.0\TempconvO.runtimeconfig.json
+D:\BCA 5\.net\TempconvO\bin\Debug\net6.0\TempconvO.dll
+D:\BCA 5\.net\TempconvO\bin\Debug\net6.0\TempconvO.pdb
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\TempconvO.dll
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\refint\TempconvO.dll
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\TempconvO.pdb
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\TempconvO.genruntimeconfig.cache
+D:\BCA 5\.net\TempconvO\obj\Debug\net6.0\ref\TempconvO.dll

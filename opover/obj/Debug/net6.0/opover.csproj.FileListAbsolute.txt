@@ -1,0 +1,4 @@
+D:\BCA 5\.net\opover\obj\Debug\net6.0\opover.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA 5\.net\opover\obj\Debug\net6.0\opover.AssemblyInfoInputs.cache
+D:\BCA 5\.net\opover\obj\Debug\net6.0\opover.AssemblyInfo.cs
+D:\BCA 5\.net\opover\obj\Debug\net6.0\opover.csproj.CoreCompileInputs.cache
